@@ -1,6 +1,6 @@
 # E-commerce Customer Analytics Dashboard
 
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](Dashboard.png)
 
 ## Overview
 End-to-end data analytics project analysing 100K+ orders from the 
